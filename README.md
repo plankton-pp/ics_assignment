@@ -4,6 +4,12 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
+To prepare package you need to install or update by 
+### `npm install`
+
+for short cut
+### `npm i`
+
 In the project directory, you can run:
 
 ### `npm start`
