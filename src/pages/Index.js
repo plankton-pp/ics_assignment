@@ -134,7 +134,6 @@ function Index() {
                 </div>
             </div>
             <div className="content">
-                {console.log(data)}
                 <div className="row">
                     {
                         data.length > 0 ? data.map((item, index) => {
